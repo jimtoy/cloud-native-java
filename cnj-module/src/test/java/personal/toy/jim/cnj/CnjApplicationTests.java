@@ -1,4 +1,4 @@
-package personal.toy.jim.cnj;
+package test.java.personal.toy.jim.cnj;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

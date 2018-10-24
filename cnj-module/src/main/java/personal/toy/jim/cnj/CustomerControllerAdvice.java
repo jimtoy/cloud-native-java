@@ -1,4 +1,4 @@
-package personal.toy.jim.cnj;
+package main.java.personal.toy.jim.cnj;
 
 import org.springframework.hateoas.VndErrors;
 import org.springframework.http.HttpHeaders;

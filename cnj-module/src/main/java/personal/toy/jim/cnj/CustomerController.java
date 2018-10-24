@@ -1,4 +1,4 @@
-package personal.toy.jim.cnj;
+package main.java.personal.toy.jim.cnj;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,4 +1,4 @@
-package personal.toy.jim.cnj;
+package main.java.personal.toy.jim.cnj;
 
 public class CustomerNotFoundException extends Exception {
 
