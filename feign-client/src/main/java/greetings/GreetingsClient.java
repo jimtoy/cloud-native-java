@@ -11,6 +11,6 @@ import java.util.Map;
 @FeignClient(serviceId = "greetings-service")
 public interface GreetingsClient {
 
-    @RequestMapping(method = RequestMethod.GET, value="/greet/{name}")
+    @RequestMapping(method = RequestMethod.GET, value = "/greet/{name}")
     Map<String, String> greet(@PathVariable("name") String name);
 }
